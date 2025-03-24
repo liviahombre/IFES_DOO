@@ -1,4 +1,3 @@
-
 package Calculadora_Factory_Method.modal;
 
 public class Soma implements Operador {
